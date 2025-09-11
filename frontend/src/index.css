@@ -6,3 +6,11 @@
 body {
   @apply bg-gray-100 text-gray-900 font-sans min-h-screen flex items-center justify-center;
 }
+body {
+  background-color: #f8f9fa; /* light gray */
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+h1, h2 {
+  font-weight: 700;
+}
